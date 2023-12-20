@@ -9,7 +9,7 @@ const Profile = () => {
     <div
       style={{
         background:
-          "linear-gradient(180deg, #01003C 0%, rgba(1, 0, 63, 0.92) 0.01%, rgba(1, 0, 73, 0.65) 99.34%, rgba(2, 0, 96, 0.00) 100%)",
+          "linear-gradient(180deg, #01003C 0%, rgba(1, 0, 63, 0.92) 0.01%, rgba(1, 0, 73, 0.65) 99.34%)",
       }}
     >
       <Chart />
