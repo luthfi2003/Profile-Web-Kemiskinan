@@ -1,0 +1,36 @@
+{
+  "ask": [
+    {
+      "id": 1,
+      "ask": "Bagaimana caranya menguasai bumi?"
+    },
+    {
+      "id": 2,
+      "ask": "Bagaimana caranya menguasai bumi dan langit?"
+    },
+    {
+      "ask": "bagaimana caranya menjadi kamu",
+      "id": 3
+    },
+    {
+      "ask": "asdasdasd",
+      "id": 4
+    }
+  ],
+  "answer": [
+    {
+      "id": 1,
+      "answer": "Jawaban pertama"
+    },
+    {
+      "answer": "asdas",
+      "askId": 2,
+      "id": 2
+    },
+    {
+      "answer": "asdas",
+      "askId": 1,
+      "id": 3
+    }
+  ]
+}
