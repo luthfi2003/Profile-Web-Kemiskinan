@@ -1,36 +1,28 @@
 {
   "ask": [
     {
-      "id": 1,
-      "ask": "Bagaimana caranya menguasai bumi?"
+      "ask": "bagaimana cara tidur",
+      "id": 1
     },
     {
-      "id": 2,
-      "ask": "Bagaimana caranya menguasai bumi dan langit?"
+      "ask": "bagaimana cara lari ?",
+      "id": 2
     },
     {
-      "ask": "bagaimana caranya menjadi kamu",
+      "ask": "bagaimana lah",
       "id": 3
-    },
-    {
-      "ask": "asdasdasd",
-      "id": 4
     }
   ],
   "answer": [
     {
-      "id": 1,
-      "answer": "Jawaban pertama"
+      "answer": "caranya adalah merem",
+      "askId": 1,
+      "id": 1
     },
     {
-      "answer": "asdas",
+      "answer": "caranya kepo",
       "askId": 2,
       "id": 2
-    },
-    {
-      "answer": "asdas",
-      "askId": 1,
-      "id": 3
     }
   ]
 }

@@ -59,6 +59,8 @@ const Diskusi = () => {
       )
 
       setDataAsk(updatedFormattedAskData)
+
+      e.target.ask.value = ""
     } catch (err) {
       console.log(err)
     }
