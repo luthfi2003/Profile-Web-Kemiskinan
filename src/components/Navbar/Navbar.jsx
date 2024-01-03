@@ -12,8 +12,8 @@ const Navbar = () => {
           <Image src={Logo} alt="" width={0} height={0} />
         </div>
         <div className="text-xs">
-          <p>Logo +</p>
-          <p>Nama PT</p>
+          {/* <p>Logo +</p> */}
+          <p>PT INOVASI SUKSES BERSAMA</p>
         </div>
       </div>
       <div className="flex items-center gap-12">

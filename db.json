@@ -1,28 +1,15 @@
 {
   "ask": [
     {
-      "ask": "bagaimana cara tidur",
+      "ask": "saya ingin berdiskusi",
       "id": 1
-    },
-    {
-      "ask": "bagaimana cara lari ?",
-      "id": 2
-    },
-    {
-      "ask": "bagaimana lah",
-      "id": 3
     }
   ],
   "answer": [
     {
-      "answer": "caranya adalah merem",
+      "answer": "halo",
       "askId": 1,
       "id": 1
-    },
-    {
-      "answer": "caranya kepo",
-      "askId": 2,
-      "id": 2
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "ppl_aji",
+  "name": "ppl",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "@amcharts/amcharts5": "^5.7.1",
     "axios": "^1.6.2",
-    "next": "14.0.4",
+    "next": "^14.0.4",
     "react": "^18",
     "react-dom": "^18",
     "swiper": "^11.0.5"
