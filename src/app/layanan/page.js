@@ -1,17 +1,19 @@
 import Image from "next/image"
 import Link from "next/link"
+import BG from "@/../public/assets/bg.jpg"
+import BGC from "@/../public/assets/bgc.jpg"
 
 const Layanan = () => {
   return (
     <>
       <div className="bg-lightBlue h-[80vh]">
-        {/* <Image src={} alt="" width={0} height={0} /> */}
+        {/* <Image src={BG} alt="" width={0} height={0} /> */}
       </div>
       <div className="h-[80vh]">
         <div className="grid grid-cols-3 -mt-32">
           <div className="bg-primary mx-auto p-5 w-56 rounded-md flex flex-col justify-between gap-5">
             <div className="overflow-hidden w-32 h-32 rounded-full bg-red mx-auto">
-              {/* <Image src={} alt="" width={0} height={0} /> */}
+              <Image src={BGC} alt="" width={0} height={0} />
             </div>
             <p className="text-sm text-center">SOLUSI & PROGRAM PEMERINTAH</p>
             <Link
@@ -23,7 +25,7 @@ const Layanan = () => {
           </div>
           <div className="bg-primary mx-auto p-5 w-56 rounded-md flex flex-col justify-between gap-5">
             <div className="overflow-hidden w-32 h-32 rounded-full bg-red mx-auto">
-              {/* <Image src={} alt="" width={0} height={0} /> */}
+              <Image src={BGC} alt="" width={0} height={0} />
             </div>
             <p className="text-sm text-center">RUANG DISKUSI</p>
             <Link
@@ -35,7 +37,7 @@ const Layanan = () => {
           </div>
           <div className="bg-primary mx-auto p-5 w-56 rounded-md flex flex-col justify-between gap-5">
             <div className="overflow-hidden w-32 h-32 rounded-full bg-red mx-auto">
-              {/* <Image src={} alt="" width={0} height={0} /> */}
+              <Image src={BGC} alt="" width={0} height={0} />
             </div>
             <p className="text-sm text-center">KONTAK & KONSULTAN</p>
             <Link

@@ -1,4 +1,5 @@
 import Image from "next/image"
+import PNS from "@/../public/assets/pns.jpg"
 
 const Kontak = () => {
   return (
@@ -15,21 +16,21 @@ const Kontak = () => {
       <div className="grid grid-cols-3 mt-10 bg-primary w-[60%] rounded-xl mx-auto py-10">
         <div className="flex flex-col gap-3">
           <div className="mx-auto w-20 h-20 rounded-full bg-red overflow-hidden">
-            {/* <Image src={} alt="" width={0} height={0} /> */}
+            <Image src={PNS} alt="" width={0} height={0} />
           </div>
-          <p className="text-center">08xxxxxxxxxx</p>
+          <p className="text-center">081708495395</p>
         </div>
         <div className="flex flex-col gap-3">
           <div className="mx-auto w-20 h-20 rounded-full bg-red overflow-hidden">
-            {/* <Image src={} alt="" width={0} height={0} /> */}
+            <Image src={PNS} alt="" width={0} height={0} />
           </div>
-          <p className="text-center">namasaya@gmail.com</p>
+          <p className="text-center">inovasisukses@gmail.com</p>
         </div>
         <div className="flex flex-col gap-3">
           <div className="mx-auto w-20 h-20 rounded-full bg-red overflow-hidden">
-            {/* <Image src={} alt="" width={0} height={0} /> */}
+            <Image src={PNS} alt="" width={0} height={0} />
           </div>
-          <p className="text-center">PT UHUY</p>
+          <p className="text-center">PT Inovasi Sukses Bersama</p>
         </div>
       </div>
     </div>
